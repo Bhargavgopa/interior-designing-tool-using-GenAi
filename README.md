@@ -1,4 +1,4 @@
-## Interior Designer AI
+## Interior Designing tool using Gen Ai
 
 ![Interior design image](public/app-screenshot.png)
 
